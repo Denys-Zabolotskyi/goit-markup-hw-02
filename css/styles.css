@@ -55,7 +55,10 @@ body {
 :focus {
   color: var(--accent-color);
 }
+/*==================== Header end ==============*/
+
 /*==================== HERO ==============*/
+
 /* .hero {
   background-color: #2f303a;
 } */
@@ -77,6 +80,7 @@ body {
   letter-spacing: 0.06em;
   color: #ffffff;
 }
+/*==================== HERO end==============*/
 
 /* ================== HOW-WE-WORK================ */
 .how-we-work-title {
@@ -94,6 +98,8 @@ body {
   letter-spacing: 0.03em;
   color: #757575;
 }
+/* ================== HOW-WE-WORK end ================ */
+
 /* ================== What we do ================ */
 .title {
   font-weight: 700;
@@ -103,6 +109,8 @@ body {
   letter-spacing: 0.03em;
   color: #212121;
 }
+/* ================== What we do end ================ */
+
 /* ================== Our team ================ */
 .our-team-title {
   font-weight: 500;
@@ -121,7 +129,11 @@ body {
   letter-spacing: 0.03em;
   color: #757575;
 }
-/* ================== button ================ */
+/* ================== Our team end ================ */
+
+/* ================== Portfolio ================ */
+
+/* ================== Button ================ */
 .button-link {
   font-family: var(--main-font);
   font-style: normal;
@@ -135,6 +147,7 @@ body {
 .button-link:focus {
   color: #ffffff;
 }
+/* ================== Button end ================ */
 
 .portfolio-title {
   font-weight: 700;
